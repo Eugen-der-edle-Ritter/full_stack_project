@@ -1,0 +1,31 @@
+{
+  "name": "full_stack_project",
+  "version": "1.0.0",
+  "description": "First full stack project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eugen-der-edle-Ritter/full_stack_project.git"
+  },
+  "keywords": [
+    "js",
+    "rest",
+    "vue"
+  ],
+  "author": "Eugene Doroshenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eugen-der-edle-Ritter/full_stack_project/issues"
+  },
+  "homepage": "https://github.com/Eugen-der-edle-Ritter/full_stack_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
